@@ -2,7 +2,7 @@ import random
 import string
 import os
 
-
+# Display name and registration number
 NAME = "SANWAL MEHBOOB"
 REGISTRATION_NUMBER = "F2021065202"
 
